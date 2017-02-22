@@ -1,0 +1,5 @@
+# ignore .c file
+*.c
+
+# don't ignore a.c even it was ignored above.
+!a.c
